@@ -23,4 +23,3 @@ A. Front End
     Phishing-awareness questions.
     Simple and accessible visual design.
 
-A
